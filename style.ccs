@@ -19,4 +19,4 @@ h1 {
 
 .photo {
   width: 100%;
-  // Coment in CCS
+}
