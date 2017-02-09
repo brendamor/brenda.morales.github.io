@@ -1,9 +1,18 @@
 h1 {
+    font-size: 40px;
     text-align: center;
   font-weight: bold;
-  color: RoyalBlue;
+  color: Purple;
+    font-family: Vidaloka, verdana;
 }
-
+h3 {
+  width: 35%;
+}
+body {
+ background-image:
+   url("http://www.ilikewallpaper.net/ipad-air-wallpapers/download/24543/Spring-Pink-Cherry-Blossom-Flare-Nature-ipad-air-wallpaper-ilikewallpaper_com.jpg");
+ background-size: cover;
+}
 .container {
   display: flex;
 }
@@ -20,3 +29,12 @@ h1 {
 .photo {
   width: 100%;
 }
+img {
+  border-radius: 15%;
+  width: 95%;
+  position: relative;
+}
+ a {
+    color: blue;
+   text-decoration: none;
+  }
